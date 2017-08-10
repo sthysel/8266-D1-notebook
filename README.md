@@ -25,6 +25,11 @@ Scanning...
 2: klipwerf 2.4 (-62)  S
 ```
 
+# Pinout
+
+
+![](./pics/pins.jpg)
+
 # Resources
 
 * https://www.aliexpress.com/store/product/Wemos-esp-wroom-02-Pocket-8266-D1-mini-WIFI-Module-ESP8266-18650-Battery/1983387_32810063490.html
