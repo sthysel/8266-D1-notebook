@@ -1,8 +1,8 @@
-# batbaby WiFi Scan
+# 8266 D1 Notebook
 
 ![](./pics/wemos_8266_d1.png)
 
-Playing with the WeMos 8266 D1
+Playing with the WeMos 8266 D1 (Wemos esp-wroom-02 Pocket 8266 D1 mini WIFI Module --ESP8266+18650 Battery)
 
 ```
 $ stty -F /dev/ttyUSB0 115200 cs8 -cstopb -parenb -icanon min 1 time 1
